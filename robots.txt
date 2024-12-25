@@ -1,0 +1,28 @@
+User-agent: *
+
+allow: /
+allow: /style/images/art/
+allow: /style/images/art/
+allow: /style/images/art/lucas_gatsas_full_1.jpg
+allow: /style/images/art/lucas_gatsas_full_2.jpg
+allow: /style/images/art/lucas_gatsas_full_3.jpg
+allow: /style/images/art/lucas_gatsas_full_4.jpg
+allow: /style/images/art/lucas_gatsas_full_5.jpg
+allow: /style/images/art/lucas_gatsas_full_6.jpg
+allow: /style/images/art/lucas_gatsas_full_7.jpg
+allow: /style/images/art/lucas_gatsas_full_8.jpg
+allow: /style/images/art/lucas_gatsas_full_9.jpg
+allow: /style/images/art/lucas_gatsas_full_10.jpg
+allow: /style/images/art/lucas_gatsas_full_11.jpg
+allow: /style/images/art/lucas_gatsas_full_12.jpg
+allow: /style/images/art/lucas_gatsas_full_13.jpg
+allow: /style/images/art/lucas_gatsas_full_14.jpg
+allow: /style/images/art/lucas_gatsas_full_15.jpg
+allow: /style/images/art/lucas_gatsas_full_16.jpg
+allow: /style/images/art/lucas_gatsas_full_17.jpg
+allow: /style/images/art/lucas_gatsas_full_18.jpg
+allow: /style/images/art/lucas_gatsas_full_19.jpg
+
+
+sitemap: https://lucasgatsas.xyz/sitemap.xml
+sitemap: https://lucasgatsas.xyz/image-sitemap.xml
