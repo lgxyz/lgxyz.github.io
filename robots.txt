@@ -34,4 +34,4 @@ Allow: /style/images/art/lucas_gatsas_full_17.jpg
 Allow: /style/images/art/lucas_gatsas_full_18.jpg
 Allow: /style/images/art/lucas_gatsas_full_19.jpg
 
-sitemap: https://lucasgatsas.xyz/image-sitemap.xml
+Sitemap: https://lucasgatsas.xyz/image-sitemap.xml
