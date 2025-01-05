@@ -1,7 +1,8 @@
 User-agent: *
 
 Disallow: 
-Allow: /style/images/tse
+Allow: /
+Allow: /style/images/tse/
 Allow: /style/images/art/
 
 Allow: /style/images/tse/lucas_gatsas_tse_01.jpg
