@@ -3,12 +3,11 @@
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <sitemap>
     <loc>https://lucasgatsas.xyz/page-sitemap.xml</loc>
-    <lastmod>2025-01-05</lastmod>
       <priority>1.00</priority>
   </sitemap>
   <sitemap>
     <loc>https://lucasgatsas.xyz/image-sitemap.xml</loc>
-    <lastmod>2025-01-05</lastmod>
       <priority>1.00</priority>
   </sitemap>
 </sitemapindex>
+
