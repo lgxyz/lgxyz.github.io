@@ -64,7 +64,7 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://lucasgatsas.xyz/about</loc>
+	<loc>https://lucasgatsas.xyz/about.html</loc>
 	<lastmod>2024-12-25T08:42:13+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
@@ -107,6 +107,23 @@
 	</image:image>
 	<image:image>
 			<image:loc>https://lucasgatsas.xyz/style/images/lucasgatsas-logo-blog-white-blog.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://lucasgatsas.xyz/moon.html</loc>
+	<lastmod>2024-12-25T08:42:13+01:00</lastmod>
+	<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-moon-5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-moon-3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-moon-2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-moon-1.JPG</image:loc>
 	</image:image>
 </url>
 </urlset>
