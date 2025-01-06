@@ -207,6 +207,6 @@ input[type="color"]:focus,
 }
 @media (min-width: 992px) {
     .navbar-nav>li>.dropdown-menu {
-        border-top: 2px solid #4c86e5;
+        border-top: 2px solid #000000;
     }
 }
