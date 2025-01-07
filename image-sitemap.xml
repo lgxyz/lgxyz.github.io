@@ -21,48 +21,48 @@
 			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-4.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_5.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-5.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_6.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-6.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_7.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-7.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_8.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-8.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_9.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-9.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_10.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-10.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_11.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-11.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_12.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-12.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_13.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-13.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_14.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-14.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_15.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-15.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_16.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-16.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_17.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-17.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_18.jpg</image:loc>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-18.jpg</image:loc>
 	</image:image>
-<!-- Big -->
+<!-- Big changes -->
 	<image:image>
 			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-full-1.jpg</image:loc>
 	</image:image>
@@ -98,6 +98,9 @@
 	</image:image>
 	<image:image>
 			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-full-12.jpg</image:loc>
+	</image:image>
+		<image:image>
+			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas_gatsas_full_12.jpg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://lucasgatsas.xyz/style/images/art/lucas-gatsas-full-13.jpg</image:loc>
